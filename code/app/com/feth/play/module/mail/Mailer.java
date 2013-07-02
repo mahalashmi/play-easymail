@@ -27,6 +27,10 @@ public class Mailer {
 
 	private final MailerPlugin plugin;
 
+
+
+
+
 	private final FiniteDuration delay;
 
 	private final String sender;
